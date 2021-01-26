@@ -1,5 +1,4 @@
 # Gán nhãn từ loại Tiếng Việt
-> Đồ án môn học Xử lý ngôn ngữ tự nhiên UIT
 
 ### Bài toán:
 
@@ -17,21 +16,20 @@
     - Chạy chương trình: `java -Xmx2g -jar VnCoreNLPServer.jar VnCoreNLP-1.1.jar -p 9001 -a "wseg,pos,parse"`
 
 3. Cài đặt thư viện VnCoreNLP trên Python: `pip install vncorenlp`
-4. Khai báo sử dụng lớp VnCoreNLP trong Python:
-   from vncorenlp import VnCoreNLP
-5. Tạo đối tượng kết nối với **VnCoreNLPServer**:
+4. Tạo đối tượng kết nối với **VnCoreNLPServer**:
     ```python
+    from vncorenlp import VnCoreNLP
     client = VnCoreNLP(address="http://127.0.0.1", port=9001)
     ```
-6. Tách từ cho một văn bản text, kết quả là danh sách các từ:
+5. Tách từ cho một văn bản text, kết quả là danh sách các từ:
     ```python
     wordlist = client.tokenize(text)
     ```
-7. Gán nhãn từ loại cho văn bản text, kết quả là danh sách các bộ (word, pos) trong đó word là từ đã được tách và pos là nhãn từ loại tương ứng với nó
+6. Gán nhãn từ loại cho văn bản text, kết quả là danh sách các bộ (word, pos) trong đó word là từ đã được tách và pos là nhãn từ loại tương ứng với nó
     ```python
     tagresult = client.pos_tag(text)
     ```
-8. Mã nguồn thư viện: https://github.com/vncorenlp/VnCoreNLP
+7. Mã nguồn thư viện: https://github.com/vncorenlp/VnCoreNLP
 
 ### Tham khảo:
 
