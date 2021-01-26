@@ -31,6 +31,7 @@
     ```
 
 ### Tham khảo:
+- Thư viện VnCoreNLP: https://github.com/vncorenlp/VnCoreNLP
 -   [[VNLP Core] [1] Bài toán tách từ tiếng Việt - Tokenization, Word Segmentation](https://forum.machinelearningcoban.com/t/vnlp-core-1-bai-toan-tach-tu-tieng-viet-tokenization-word-segmentation/2002)
 -   [Khóa học Coursera: Natural Language Processing with Probabilistic Models](https://www.coursera.org/learn/probabilistic-models-in-nlp)
-- [Thư viện VnCoreNLP](https://github.com/vncorenlp/VnCoreNLP)
+
