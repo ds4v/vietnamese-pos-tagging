@@ -2,8 +2,8 @@
 
 ### Bài toán:
 
-1. Tách từ Tiếng Việt với thuật toán Longest Matching
-2. Gán nhãn từ loại sử dụng mô hình Hidden Markorv kết hợp thuật toán Viterbi
+1. Tách từ Tiếng Việt với thuật toán `Longest Matching`
+2. Gán nhãn từ loại sử dụng mô hình `Hidden Markorv` kết hợp thuật toán `Viterbi`
 3. So sánh kết quả với thư viện [VnCoreNLP](https://github.com/vncorenlp/VnCoreNLP)
 
 ### Cài đặt và cấu hình:
