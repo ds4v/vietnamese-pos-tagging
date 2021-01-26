@@ -1,5 +1,5 @@
 # Gán nhãn từ loại Tiếng Việt
-> Đồ án môn học Xử lý ngôn ngữ tự nhiện UIT
+> Đồ án môn học Xử lý ngôn ngữ tự nhiên UIT
 
 ### Bài toán:
 
