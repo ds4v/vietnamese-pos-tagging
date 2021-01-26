@@ -25,13 +25,12 @@
     ```python
     wordlist = client.tokenize(text)
     ```
-6. Gán nhãn từ loại cho văn bản text, kết quả là danh sách các bộ (word, pos) trong đó word là từ đã được tách và pos là nhãn từ loại tương ứng với nó
+6. Gán nhãn từ loại cho văn bản text, kết quả là danh sách các bộ (word, pos) trong đó word là từ đã được tách và pos là nhãn từ loại tương ứng với nó:
     ```python
     tagresult = client.pos_tag(text)
     ```
-7. Mã nguồn thư viện: https://github.com/vncorenlp/VnCoreNLP
 
 ### Tham khảo:
-
 -   [[VNLP Core] [1] Bài toán tách từ tiếng Việt - Tokenization, Word Segmentation](https://forum.machinelearningcoban.com/t/vnlp-core-1-bai-toan-tach-tu-tieng-viet-tokenization-word-segmentation/2002)
 -   [Khóa học Coursera: Natural Language Processing with Probabilistic Models](https://www.coursera.org/learn/probabilistic-models-in-nlp)
+- [Thư viện VnCoreNLP](https://github.com/vncorenlp/VnCoreNLP)
