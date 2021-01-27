@@ -40,7 +40,7 @@ chỗ	N
 mẹ	N
 những	L
 ngày	N
-Giáng_sinh	V
+Giáng_sinh	Np
 .	CH
 
 Năm	Np
@@ -48,13 +48,13 @@ nào	P
 cũng	R
 vậy	P
 hoặc	Cc
-có_vẻ	V
-như_vậy	C
+có_vẻ	X
+như_vậy	X
 .	CH
 
 Tôi	P
 chưa	R
-bao_giờ	N
+bao_giờ	P
 thực_sự	A
 cảm_thấy	V
 mệt_mỏi	A
@@ -64,15 +64,14 @@ nó	P
 
 Tôi	P
 đã	R
-có_thể	V
+có_thể	R
 chống	V
 lại	R
-cảm_giác	V
+cảm_giác	N
 đó	P
 trong	E
 nhiều	A
-năm	N
-qua	V
+năm_qua	N
 .	CH
 
 Những	L
@@ -82,38 +81,38 @@ gần	A
 tôi	P
 qua_lại	V
 sân_bay	N
-Tân_Sơn_Nhất	N
-thường_xuyên	R
+Tân_Sơn_Nhất	Np
+thường_xuyên	A
 .	CH
 
 Trường	Np
 tôi	P
 từng	P
-nghiêm_cấm	A
-sử_dụng	N
+nghiêm_cấm	V
+sử_dụng	V
 điện_thoại	N
 trong	E
 lớp	N
 .	CH
 
-Học_sinh	V
+Học_sinh	N
 ngày_nay	N
-có_thể	V
+có_thể	R
 dễ_dàng	A
 tiếp_cận	V
-bài_học	Nc
+bài_học	N
 và	Cc
 phương_pháp	N
 giải	N
-bài_tập	Nc
+bài_tập	N
 .	CH
 
 Điện_thoại	N
-thông_minh	V
+thông_minh	A
 là	V
 công_cụ	N
 không_thể	R
-đảo_ngược	N
+đảo_ngược	V
 trong	E
-cuộc_sống	Nc
+cuộc_sống	N
 .	CH

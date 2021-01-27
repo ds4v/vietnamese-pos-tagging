@@ -4,10 +4,8 @@ trên	E
 đã	R
 giúp	V
 Rashford	Np
-giải	N
-hạn	N
-bàn	N
-thắng	V
+giải_hạn	N
+bàn_thắng	N
 tại	E
 sân	N
 Old_Trafford	Np
@@ -22,15 +20,12 @@ Với	E
 có	V
 được	V
 trong	E
-trận	N
-đấu	V
+trận_đấu	N
 này	P
 ,	CH
-Quỷ	Np
-đỏ	A
+Quỷ_đỏ	N
 đã	R
-leo	V
-lên	V
+leo_lên	V
 vị_trí	N
 thứ	N
 2	M
@@ -58,9 +53,7 @@ Joe_Biden	Np
 cho	E
 đang	R
 cân_nhắc	V
-việc	N
-cắt	V
-bỏ	V
+việc_cắt_bỏ	N
 chương_trình	N
 hiện_đại_hoá	V
 hạt_nhân	N
@@ -77,9 +70,7 @@ Donald_Trump	Np
 .	CH
 
 Theo	V
-các	L
-nguồn	N
-tin	V
+các_nguồn_tin	L
 ,	CH
 trong	E
 nhiệm_kỳ	N
@@ -93,8 +84,8 @@ nỗ_lực	V
 trong	E
 việc	N
 tăng_cường	V
-kho	N
-vũ_khí_hạt_nhân	N
+kho_vũ_khí	N
+hạt_nhân	N
 của	E
 Mỹ	Np
 thông_qua	V
@@ -110,8 +101,7 @@ sàng_lọc	V
 và	Cc
 điều_trị	V
 dự_phòng	V
-mang	V
-lại	R
+mang_lại	V
 hiệu_quả	N
 tích_cực	A
 bởi	E
@@ -124,8 +114,7 @@ giai_đoạn	N
 sớm	A
 thì	C
 vẫn	R
-có	V
-khả_năng	N
+có_khả_năng	V
 điều_trị	V
 thành_công	V
 .	CH
@@ -161,8 +150,7 @@ thực_phẩm	N
 được	V
 chế_biến	V
 như	C
-hun	V
-khói	N
+hun_khói	V
 ,	CH
 thức_ăn	N
 ngâm	V
@@ -387,13 +375,11 @@ pháo_hoa	N
 tại	E
 2	M
 điểm	N
-tầm	N
-cao	A
+tầm_cao	N
 và	Cc
 1	M
 điểm	N
-tầm	N
-thấp	A
+tầm_thấp	N
 .	CH
 
 Các	Np
@@ -405,19 +391,16 @@ tăng_giá	V
 có_thể	R
 đưa	V
 Bitcoin	Np
-phá	V
-vỡ	V
+phá_vỡ	V
 hàng_loạt	N
 kỷ_lục	N
 trong	E
 thời_gian	N
-sắp	R
-tới	V
+sắp_tới	R
 .	CH
 
 Trong	E
-24	M
-giờ	N
+24_giờ	M
 qua	V
 ,	CH
 giá	N
@@ -442,8 +425,7 @@ tài	N
 không_thể	R
 nói	V
 là	V
-bóng_đá	N
-nội	N
+bóng_đá_nội	N
 khủng_hoảng	V
 tiền_đạo	N
 .	CH
@@ -455,10 +437,8 @@ hãng	N
 smartphone	N
 sẽ	R
 cho	E
-người	N
-dùng	V
-đặt	V
-trước	E
+người_dùng	N
+đặt_trước	V
 ngay	T
 sau	N
 khi	N
@@ -475,9 +455,7 @@ trăm	M
 triệu	M
 liều	V
 vắc_xin	N
-Covid	Np
--	CH
-19	M
+Covid_-_19	N
 cho	E
 các	L
 nước	N
@@ -496,9 +474,7 @@ quốc_gia	N
 nghèo	A
 .	CH
 
-Mẫu	Np
-xe	N
-mới	A
+Mẫu_xe_mới	N
 không_chỉ	C
 được	V
 trang_bị	V
@@ -527,9 +503,7 @@ dự_kiến	V
 .	CH
 
 Ở	E
-giải	N
-đấu	V
-này	P
+giải_đấu_này	N
 ,	CH
 Andy_Murray	Np
 sẽ	R
@@ -542,27 +516,21 @@ tham_dự	V
 
 Đây	P
 là	V
-hãng	N
-hàng_không	N
+hãng_hàng_không	N
 lữ_hành	V
 cung_cấp	V
 các	L
 dịch_vụ	N
-vận_chuyển	V
-hàng	N
-không	R
+vận_chuyển_hàng_không	V
 và	Cc
 các	L
-gói	V
-du_lịch	V
-trong	E
-nước	N
+gói_du_lịch	V
+trong_nước	E
 và	Cc
 quốc_tế	N
 .	CH
 
-Viêm	Np
-gan	N
+Viêm_gan	N
 do	E
 rượu	N
 là	V
@@ -604,8 +572,7 @@ năm	N
 Châu_Á	Np
 năm	N
 qua	V
-dốc	N
-sức	N
+dốc_sức	N
 chiến_đấu	V
 với	E
 Covid-19	V
@@ -701,8 +668,7 @@ ngày	N
 Nhà	Np
 toán_học	N
 người	N
-Do	E
-Thái	Np
+Do_Thái	E
 phải	V
 rời	V
 quê_hương	N
@@ -837,8 +803,7 @@ Trẻ_em	N
 cần	V
 được	V
 trang_bị	V
-kiên	V
-thức	V
+kiến_thức	N
 ,	CH
 hướng_dẫn	V
 bảo_vệ	V
@@ -958,8 +923,7 @@ cảm_giác	N
 đó	P
 trong	E
 nhiều	A
-năm	N
-qua	V
+năm_qua	N
 .	CH
 
 Những	L
