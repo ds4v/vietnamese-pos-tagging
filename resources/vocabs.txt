@@ -3117,6 +3117,7 @@ cảm_phục
 cảm_quan
 cảm_tạ
 cảm_thán
+cảm_thấy
 cảm_thông
 cảm_thụ
 cảm_thức
@@ -5420,6 +5421,7 @@ có_ích
 có_khi
 có_lẽ
 có_lí
+có_vẻ
 cọ_xát
 cobalt
 cóc
@@ -17821,6 +17823,7 @@ như_nhứ
 như_thể
 như_thường
 như_tuồng
+như_vậy
 như_ý
 nhừ
 nem

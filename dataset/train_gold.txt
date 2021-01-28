@@ -1,4 +1,4 @@
-Pha	Np
+Pha	N
 lập_công	V
 trên	E
 đã	R
@@ -14,7 +14,7 @@ kéo_dài	V
 phút	N
 .	CH
 
-Với	E
+Với	C
 3	M
 điểm	N
 có	V
@@ -23,7 +23,7 @@ trong	E
 trận_đấu	N
 này	P
 ,	CH
-Quỷ_đỏ	N
+Quỷ_đỏ	Np
 đã	R
 leo_lên	V
 vị_trí	N
@@ -50,7 +50,7 @@ Tổng_thống	N
 đắc_cử	V
 Joe_Biden	Np
 được	V
-cho	E
+cho	V
 đang	R
 cân_nhắc	V
 việc_cắt_bỏ	N
@@ -70,7 +70,7 @@ Donald_Trump	Np
 .	CH
 
 Theo	V
-các_nguồn_tin	L
+các_nguồn_tin	N
 ,	CH
 trong	E
 nhiệm_kỳ	N
@@ -120,9 +120,9 @@ thành_công	V
 .	CH
 
 Tại	E
-Bệnh_viện	Np
+Bệnh_viện	N
 K	Np
-Trung_ương	Np
+Trung_ương	N
 hầu_hết	X
 nam_giới	N
 mắc	V
@@ -179,12 +179,12 @@ thói_quen	N
 ăn_uống	V
 nhạt	A
 và	Cc
-thanh_đạm	V
+thanh_đạm	A
 .	CH
 
 Ông	N
 Dũng	Np
-cho	E
+cho	V
 biết	V
 :	CH
 "	CH
@@ -240,9 +240,9 @@ nghiên_cứu	V
 
 Cụ_thể	A
 ,	CH
-Cục	Np
+Cục	N
 Thống_kê	V
-TP	Np
+TP	N
 Đà_Nẵng	Np
 thông_tin	N
 ,	CH
@@ -262,7 +262,7 @@ nhiều	A
 khó_khăn	A
 .	CH
 
-Dịp	Np
+Dịp	N
 nghỉ	V
 Tết_Dương_lịch	N
 năm	N
@@ -286,19 +286,19 @@ khu_vực	N
 trung_tâm	N
 đã	R
 ra	V
-thông_báo	V
+thông_báo	N
 hết	V
 phòng	N
 .	CH
 
-Nhà_đầu_tư	Np
+Nhà_đầu_tư	N
 nếu	C
 tinh_thần	N
 không	R
 vững	A
 có_thể	R
 sẽ	R
-không_thể	R
+không_thể	X
 trụ	V
 được	V
 với	E
@@ -315,7 +315,7 @@ cổ_phiếu	N
 
 Trong	E
 bức	Nc
-tranh	V
+tranh	N
 thị_trường	N
 chung	A
 ,	CH
@@ -327,7 +327,7 @@ vị_trí	N
 áp_đảo	V
 .	CH
 
-Toà	Np
+Toà	N
 nhà	N
 Landmark	Np
 81	M
@@ -342,7 +342,7 @@ TP.	N
 HCM	Np
 .	CH
 
-Vì	E
+Vì	C
 khu_vực	N
 này	P
 không	R
@@ -382,7 +382,7 @@ và	Cc
 tầm_thấp	N
 .	CH
 
-Các	Np
+Các	L
 chuyên_gia	N
 tin_tưởng	V
 rằng	C
@@ -392,7 +392,7 @@ có_thể	R
 đưa	V
 Bitcoin	Np
 phá_vỡ	V
-hàng_loạt	N
+hàng_loạt	L
 kỷ_lục	N
 trong	E
 thời_gian	N
@@ -400,7 +400,7 @@ sắp_tới	R
 .	CH
 
 Trong	E
-24_giờ	M
+24_giờ	N
 qua	V
 ,	CH
 giá	N
@@ -434,7 +434,7 @@ Thông_thường	A
 ,	CH
 các	L
 hãng	N
-smartphone	N
+smartphone	B
 sẽ	R
 cho	E
 người_dùng	N
@@ -453,9 +453,9 @@ cung_cấp	V
 hàng	N
 trăm	M
 triệu	M
-liều	V
+liều	N
 vắc_xin	N
-Covid_-_19	N
+Covid_-_19	Np
 cho	E
 các	L
 nước	N
@@ -475,19 +475,19 @@ nghèo	A
 .	CH
 
 Mẫu_xe_mới	N
-không_chỉ	C
+không_chỉ	R
 được	V
 trang_bị	V
 động_cơ	N
 mạnh_mẽ	A
 hơn	A
 mà_còn	C
-tinh_chỉnh	A
+tinh_chỉnh	V
 về	E
 ngoại_hình	N
 .	CH
 
-Kế_hoạch	Np
+Kế_hoạch	N
 trở_lại	V
 thi_đấu	V
 quần_vợt	N
@@ -524,7 +524,7 @@ dịch_vụ	N
 vận_chuyển_hàng_không	V
 và	Cc
 các	L
-gói_du_lịch	V
+gói_du_lịch	N
 trong_nước	E
 và	Cc
 quốc_tế	N
@@ -535,10 +535,10 @@ do	E
 rượu	N
 là	V
 quá_trình	N
-viêm	V
-cấp_tính	N
+viêm	N
+cấp_tính	A
 hoặc	Cc
-mạn_tính	N
+mạn_tính	A
 ở	E
 gan	N
 do	E
@@ -546,11 +546,11 @@ uống	V
 rượu	N
 .	CH
 
-Các	Np
+Các	L
 trường_hợp	N
-viêm	V
+viêm	N
 gan	N
-do	E
+do	C
 rượu	N
 hầu_hết	X
 xảy	V
@@ -572,13 +572,13 @@ năm	N
 Châu_Á	Np
 năm	N
 qua	V
-dốc_sức	N
+dốc_sức	V
 chiến_đấu	V
 với	E
-Covid-19	V
+Covid-19	Np
 .	CH
 
-Ca	Np
+Ca	N
 nhiễm	V
 và	Cc
 nhập_viện	V
@@ -619,7 +619,7 @@ xe	N
 sang	V
 vị_trí	N
 khác	A
-để	E
+để	C
 có	V
 xe	N
 đi	V
@@ -630,7 +630,7 @@ ngõ	N
 nhỏ	A
 .	CH
 
-Nữ	Np
+Nữ	N
 công_nhân	N
 gom	V
 những	L
@@ -642,7 +642,7 @@ quá	R
 người	N
 .	CH
 
-Nhà_đầu_tư	Np
+Nhà_đầu_tư	N
 cân_nhắc	V
 khả_năng	N
 Quốc_hội	N
@@ -652,7 +652,7 @@ thêm	V
 kích_thích	V
 .	CH
 
-Tuần	Np
+Tuần	N
 trước	E
 ,	CH
 Mỹ	Np
@@ -665,10 +665,10 @@ mỗi	L
 ngày	N
 .	CH
 
-Nhà	Np
+Nhà	N
 toán_học	N
 người	N
-Do_Thái	E
+Do_Thái	Np
 phải	V
 rời	V
 quê_hương	N
@@ -681,13 +681,13 @@ tiến_công	V
 châu_Âu	Np
 .	CH
 
-Phi_cơ	Np
+Phi_cơ	N
 gặp	V
 trục_trặc	V
 trên	E
 đường	N
 trở	V
-về	E
+về	V
 ,	CH
 nó	P
 cũng	R
@@ -727,7 +727,7 @@ máu	N
 não	N
 .	CH
 
-Các	Np
+Các	L
 cục	N
 máu	N
 đông	A
@@ -743,7 +743,7 @@ tắc	V
 mạch	N
 .	CH
 
-Trường_hợp	Np
+Trường_hợp	N
 tắc	V
 mạch_máu	N
 não	N
@@ -753,7 +753,7 @@ dẫn	V
 đột_quỵ	V
 .	CH
 
-Các	Np
+Các	L
 bác_sĩ	N
 khuyến_cáo	V
 đột_quỵ	V
@@ -761,10 +761,10 @@ không	R
 có	V
 dấu_hiệu	N
 nhận_biết	V
-trước	E
+trước	N
 .	CH
 
-Anh	Np
+Anh	N
 cũng	R
 đưa	V
 ra	V
@@ -772,7 +772,7 @@ bằng_chứng	N
 ngoại_phạm	N
 .	CH
 
-Đại_diện	Np
+Đại_diện	N
 cho	E
 các	L
 công_tố_viên	N
@@ -809,7 +809,7 @@ hướng_dẫn	V
 bảo_vệ	V
 mình	P
 khỏi	V
-bạo_lực	V
+bạo_lực	N
 trong	E
 nhà_trường	N
 để	E
