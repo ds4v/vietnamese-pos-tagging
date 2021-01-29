@@ -859,7 +859,7 @@ bố	N
 luôn	R
 dành	V
 thời_gian	N
-để	E
+để	V
 vui_vẻ	A
 với	E
 anh_em	N
@@ -875,7 +875,7 @@ nóng	A
 tôi	P
 pha	V
 rượu	N
-táo	V
+táo	N
 nóng	A
 .	CH
 
@@ -895,7 +895,7 @@ ngày	N
 Giáng_sinh	Np
 .	CH
 
-Năm	Np
+Năm	N
 nào	P
 cũng	R
 vậy	P
@@ -937,9 +937,9 @@ Tân_Sơn_Nhất	Np
 thường_xuyên	A
 .	CH
 
-Trường	Np
+Trường	N
 tôi	P
-từng	P
+từng	R
 nghiêm_cấm	V
 sử_dụng	V
 điện_thoại	N
@@ -955,7 +955,7 @@ tiếp_cận	V
 bài_học	N
 và	Cc
 phương_pháp	N
-giải	N
+giải	V
 bài_tập	N
 .	CH
 
@@ -963,7 +963,7 @@ bài_tập	N
 thông_minh	A
 là	V
 công_cụ	N
-không_thể	R
+không_thể	X
 đảo_ngược	V
 trong	E
 cuộc_sống	N
