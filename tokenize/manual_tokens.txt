@@ -885,8 +885,7 @@ người
 đến
 dùng
 tiệc
-tự
-chọn
+tự_chọn
 ở
 chỗ
 mẹ
@@ -968,3 +967,4 @@ không_thể
 trong
 cuộc_sống
 .
+

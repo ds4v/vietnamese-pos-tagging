@@ -33,8 +33,7 @@ người
 đến
 dùng
 tiệc
-tự
-chọn
+tự_chọn
 ở
 chỗ
 mẹ
@@ -76,8 +75,7 @@ năm_qua
 
 Những
 năm
-gần
-đây
+gần_đây
 tôi
 qua_lại
 sân_bay
@@ -116,3 +114,4 @@ không_thể
 trong
 cuộc_sống
 .
+

@@ -885,8 +885,7 @@ người	N
 đến	V
 dùng	V
 tiệc	N
-tự	P
-chọn	V
+tự_chọn	A
 ở	E
 chỗ	N
 mẹ	N
@@ -928,8 +927,7 @@ năm_qua	N
 
 Những	L
 năm	N
-gần	A
-đây	P
+gần_đây	N
 tôi	P
 qua_lại	V
 sân_bay	N
@@ -968,3 +966,4 @@ không_thể	X
 trong	E
 cuộc_sống	N
 .	CH
+
